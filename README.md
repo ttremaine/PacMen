@@ -1,6 +1,6 @@
 # PacMen Project
 
-## Descriptiom
+## Description
 In this exercise we were tasked with creating pacmen by clicking a button and then moving the pacmen on the page when the game started.
 
 The pacmen move at a random velocity. When they hit the edge of the screen, they change position and stay within the frame of the webpage.
@@ -9,6 +9,10 @@ The pacmen move at a random velocity. When they hit the edge of the screen, they
 <img src="pacmenscreenshot.png">
 
 ## How to Run
+You can open the game at the following link: 
+To run the game on your machine, download the files via the green Code button above.
+
+## Future Improvements
 
 
 ## License
