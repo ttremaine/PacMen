@@ -1,7 +1,7 @@
 let pos = 0;
 const pacArray = [
-  ['./images/PacMan1.png', './images/PacMan2.png'],
-  ['./images/PacMan3.png', './images/PacMan4.png'],
+  ['./images/pacman1.png', './images/pacman2.png'],
+  ['./images/pacman3.png', './images/pacman4.png'],
 ];
 let direction = 0;
 const pacMen = [];
@@ -33,7 +33,6 @@ function update() {
     checkCollisions(item);
     item.position.x += item.velocity.x;
     item.position.y += item.velocity.y;
-
     item.newimg.style.left = item.position.x;
     item.newimg.style.top = item.position.y;
   });
