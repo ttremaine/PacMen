@@ -13,7 +13,7 @@ You can open the game at the following link:
 To run the game on your machine, download the files via the green Code button above.
 
 ## Future Improvements
-
+I would like to work on randomizing the colors of the pacmen and to have them change position when they hit each other, not only the edge of the screen.
 
 ## License
 MIT License
